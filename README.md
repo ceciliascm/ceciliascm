@@ -1,5 +1,5 @@
 ## Olá!! Eu sou a Cecília👋
 
-- 🌱 Estudando Java
+- 🌱 Estudando Java, C# e Angular.
 - 😄 Pronomes: ela/dela
 
